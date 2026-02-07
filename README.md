@@ -187,7 +187,7 @@ PCEMS 2025 International Conference (Springer LNEE)
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:kr.pankaj.prajapat@gmail.com">
+<a href="mailto:pk5818137@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 &nbsp;&nbsp;
