@@ -88,36 +88,19 @@ I enjoy building <b>real-world systems that combine hardware + software</b>, and
 
 <hr/>
 
-<!-- ===================== PROJECTS (HOVER CARDS ADDED) ===================== -->
+<!-- ===================== PROJECTS ===================== -->
 <h2>📌 Featured Projects</h2>
-
-<p align="center">
-
-<!-- VIKRANT -->
-<a href="https://github.com/YOUR_USERNAME/VIKRANT-AGV">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=VIKRANT-AGV&theme=github_dark"
-            media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=VIKRANT-AGV&theme=default" />
-  </picture>
-</a>
-
-<!-- AROGA -->
-<a href="https://github.com/YOUR_USERNAME/AROGA-AI-IOT">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AROGA-AI-IOT&theme=github_dark"
-            media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AROGA-AI-IOT&theme=default" />
-  </picture>
-</a>
-
-</p>
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 <h3>🔹 VIKRANT – Smart Warehouse Mini AGV</h3>
+
+<p>
+📦 <b>Autonomous Guided Vehicle for Warehouse Automation</b>
+</p>
+
 <ul>
   <li>Optimized path planning algorithm</li>
   <li>4-servo robotic arm for package handling</li>
@@ -128,6 +111,11 @@ I enjoy building <b>real-world systems that combine hardware + software</b>, and
 
 <td width="50%" valign="top">
 <h3>🔹 AROGA – Automated Pesticide Detection & Sprinkling</h3>
+
+<p>
+🌱 <b>AI + IoT solution for Smart Agriculture</b>
+</p>
+
 <ul>
   <li>ESP32-CAM based live crop monitoring</li>
   <li>CNN-based disease detection</li>
@@ -203,7 +191,7 @@ PCEMS 2025 International Conference (Springer LNEE)
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
@@ -211,3 +199,5 @@ PCEMS 2025 International Conference (Springer LNEE)
 <p align="center">
 ⭐ Feel free to explore my repositories and projects!
 </p>
+
+
